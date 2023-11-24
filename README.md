@@ -1,6 +1,6 @@
 # pico-LCD-readable
 ## Readable font size with framebuffer on Waveshare 1.14 PicoLCD
-Waveshare 1.14 PicoLCD (and most of the displays) use Framebuf Library and the documentation declares that 8x8 is the only font size available. In my opinion that is not comfortable to read, and the result is lame.
+Waveshare 1.14 PicoLCD (and most of the displays) use Framebuf Library and the documentation declares that 8x8 is the only font size available. In my opinion that is not comfortable to read.
 
 I am aware that there is a simpler solution for bigger font: https://github.com/dhargopala/pico-custom-font
 
